@@ -11,7 +11,8 @@
 	//*********** WHATSAPP GOLD ***********
 	
 	[<Category><gold_wa>]
-	[<DonwloadMod><1><gold><0>		<lokopol><WhatsApp Gold v9.70><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/gold/gold-v9.70-wa.apk><1>]
+	[<DonwloadMod><1><gold><0>		<lokopol><WhatsApp Gold v9.80><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/gold/gold-v9.80-wa.apk><1>]
+	[<DonwloadMod><1><gold><0>		<lokopol><WhatsApp Gold v9.80><com.whatsapp.w4b><all><https://github.com/WhatsaMods/TheFiles/raw/master/gold/gold-v9.80-w4b.apk><1>]
 }
 {
 	//*********** YOWHATSAPP ***********
