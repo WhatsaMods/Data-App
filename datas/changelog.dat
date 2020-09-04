@@ -1,6 +1,21 @@
 {
 	[
 		<Category>
+		<v1.1.8-title>
+	]
+	[
+		<dateLog>
+		<v1.1.8-date>
+	]
+	[
+		<viewLog> // Nombre de la seccion Selected Screen
+		<log-fix>   // Sumario de la sección
+		<v1.1.8a>   // Sumario de la sección
+	]
+}
+{
+	[
+		<Category>
 		<v1.1.6-title>
 	]
 	[
