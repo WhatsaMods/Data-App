@@ -78,6 +78,10 @@
 [about=About..]
 
 // Changelog
+[v1.1.8-title=Versión 1.1.8.12]
+[v1.1.8-date=04 Sep. 2020]
+[v1.1.8a=The MOD name and version will now be displayed correctly during download.]
+
 [v1.1.6-title=Versión 1.1.6.35]
 [v1.1.6-date=12 May. 2020]
 [v1.1.6a=Fixed an issue that prevents the app content from being displayed correctly on some devices.]
