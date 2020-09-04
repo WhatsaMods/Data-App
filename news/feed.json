@@ -1,5 +1,14 @@
 {	"feed": [
 		{
+			"id": 26,
+			"name": "WhatsaMods",
+			"image": "https://github.com/WhatsaMods/Data-App/raw/master/news/novsgold.png",
+			"title": "NoWhatsApp vs WhatsApp Gold",
+			"status": "Gracias a nuestro compañero lokopol, tenemos disponible las últimas versiones de NoWhatsApp y WhatsApp Gold traducidas al español.<br><br>Como novedad, las versiones de NoWhatsApp están disponibles en las arquitecturas arm, arm64, x86 y x86_64, si no veis alguna de las versiones, es que vuestro dispositivo no es compatible con dichas arquitecturas, por lo tanto no podréis instalarlas.<br><br>Podéis descargar las versiones de NoWhatsApp y WhatsApp Gold desde la sección de descargas.",
+			"timeStamp": "04-09-2020 12:47",
+			"url": ""
+		},
+		{
 			"id": 25,
 			"name": "WhatsaMods",
 			"image": "https://media.metrolatam.com/2020/03/04/fouadwhatsapp-21de3f78a3df67272a6332e343875af6-1200x800.jpg",
