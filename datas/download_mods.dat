@@ -76,6 +76,12 @@
 	[<DonwloadMod><1><TFiconFM><0>		<TheFULL><Fouad Mods v8.36><com.fmwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/fm-v8.36-fm.apk><1>]
 }
 {	
+	//*********** WHATSAPP BLACK ***********
+	
+	[<Category><whatsblack>]
+	[<DonwloadMod><1><icon1><0>		<TheFULL><WhatsApp v2.20.200.3><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/Black2.20.200.3Plus.apk><1>]
+}
+{	
 	//*********** WHATSAPP SAM ***********
 	
 	[<Category><whats>]
