@@ -1,5 +1,14 @@
 {	"feed": [
 		{
+			"id": 28,
+			"name": "WhatsaMods",
+			"image": "https://i.imgur.com/8Wm6GQH.jpg",
+			"title": "¡Noticias Fouad WhatsApp!",
+			"status": "Esta vez tenemos buenas y malas noticias sobre el MOD Fouad WhatsApp.<br><br>Las malas noticias, es que nuestro compañero TheFULL, no seguirá por el momento lanzando actualizaciones de su versión personalizada del Fouad.<br><br>Por otro lado, tenemos una nueva actualización de Fouad WhatsApp con la base 2.20.199.14, totalmente traducida al español, con correcciones de errores y novedades principalmente de UI.<br><br>Como siempre, podéis descargar todas las versiones desde la sección de Descargas.<br><br>Os recordamos, que si habéis instalado anteriormente versiones desde la App, no deberéis tener ningún tipo de conflicto para instalarla.<br><br>También mencionar que tenéis disponible una web de ayuda con preguntas y problemas frecuentes, en la cual podéis resolver vuestras dudas.",
+			"timeStamp": "19-10-2020 21:12",
+			"url": "https://www.whatsamods.com/"
+		},
+		{
 			"id": 27,
 			"name": "WhatsaMods",
 			"image": "https://github.com/WhatsaMods/Data-App/raw/master/news/black.jpg",
