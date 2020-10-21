@@ -79,6 +79,10 @@
 [about=Acerca de..]
 
 // Changelog
+[v1.1.9-title=Versión 1.1.9.1]
+[v1.1.9-date=21 Oct. 2020]
+[v1.1.9a=Actualización del código a AndroidX.]
+
 [v1.1.8-title=Versión 1.1.8.12]
 [v1.1.8-date=04 Sep. 2020]
 [v1.1.8a=Ahora se mostrará correctamente el nombre del MOD y la versión durante la descarga.]
