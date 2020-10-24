@@ -23,6 +23,7 @@
 [btnResset=Reiniciar]
 [btnWeb=Alternativa]
 [btnCancel=Cancelar]
+[setdown=Descargando:]
 
 // Popup About
 [ppAboutApp=WhatsaMods v]
