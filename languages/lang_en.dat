@@ -21,7 +21,7 @@
 [errorDownload=Downloading error encountered.<br><br>You can restart the download clicking on the Restart button, or download via a web browser.]
 [btnAccept=Accept]
 [btnResset=Restart]
-[btnWeb=Web]
+[btnWeb=Alternative]
 [btnCancel=Cancel]
 
 // Popup About
