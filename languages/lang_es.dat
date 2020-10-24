@@ -21,7 +21,7 @@
 [errorDownload=Se ha producido un error en la descarga.<br><br>Puedes reiniciar la descarga pulsando el botón Reiniciar, o realizar la descarga mediante un navegador web.]
 [btnAccept=Aceptar]
 [btnResset=Reiniciar]
-[btnWeb=Web]
+[btnWeb=Alternativa]
 [btnCancel=Cancelar]
 
 // Popup About
