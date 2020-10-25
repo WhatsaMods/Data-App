@@ -12,6 +12,11 @@
 		<log-new>   // Sumario de la sección
 		<v1.2.0a>   // Sumario de la sección
 	]
+	[
+		<viewLog> // Nombre de la seccion Selected Screen
+		<log-fix>   // Sumario de la sección
+		<v1.2.0b>   // Sumario de la sección
+	]
 }
 {
 	[
