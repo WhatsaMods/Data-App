@@ -80,9 +80,10 @@
 [about=Acerca de..]
 
 // Changelog
-[v1.2.0-title=Versión 1.2.0.0]
+[v1.2.0-title=Versión 1.2.0.25]
 [v1.2.0-date=24 Oct. 2020]
 [v1.2.0a=Actualizado método de descarga alternativo si fallara la descarga de algún MOD.]
+[v1.2.0b=Se corrigió el nombre del archivo de descargar alternativa.]
 
 [v1.1.9-title=Versión 1.1.9.1]
 [v1.1.9-date=21 Oct. 2020]
