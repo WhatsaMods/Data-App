@@ -8,6 +8,7 @@
 	[<DonwloadMod><1><gold2><0>			<WhatsaMods><WhatsApp Gold v9.91><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/gold/gold-v9.91-wa.apk><1>]
 	[<DonwloadMod><1><nowa-wa><0>			<WhatsaMods><NoWhatsApp v9.75><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.75-wa.apk><1>]
 	[<DonwloadMod><1><mpro-wa><0>			<CrisMod><M Pro v9.2><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/crismod/MPro-9.2-wa.apk><1>]
+	[<DonwloadMod><1><icon1><0>			<TheFULL><WhatsApp Go v0.20.113L><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/WaGO1-0.20.113L.apk><1>]
 }
 {	
 	//*********** WHATSAPP BUSINESS ***********
@@ -63,6 +64,5 @@
 	//*********** WHATSAPP GO ***********
 	
 	[<Category><w_go>]
-	[<DonwloadMod><1><icon1><0>			<TheFULL><WhatsApp Go v0.20.113L><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/WaGO1-0.20.113L.apk><1>]
 	[<DonwloadMod><1><icon2><0>			<TheFULL><WhatsApp Go v0.20.113L><com.wago><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/WaGO2-0.20.113L.apk><1>]
 }
