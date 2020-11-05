@@ -1,5 +1,14 @@
 {	"feed": [
 		{
+			"id": 33,
+			"name": "WhatsaMods",
+			"image": "https://raw.githubusercontent.com/WhatsaMods/Data-App/master/news/mpro.jpg",
+			"title": "¡¡Nueva incorporación!",
+			"status": "Esta vez os traemos un nuevo MOD para la App. Se trata de WhatsApp M Pro, desarrollado por CrisMod.<br><br>Este MOD nos trae Privacidad, Opciones de configuración Multimedia, Descarga de Estados, Copias de seguridad, y varias cosas que seguro que a muchos os gustan.<br><br>De momento solo está disponible el package com.whatsapp, pero iremos incorporando packages secuandarios en poco tiempo.<br><br>¿Que estáis esperando para probarlo? ¡Está disponible en la sección de descargas!",
+			"timeStamp": "06-11-2020 00:05",
+			"url": ""
+		},
+		{
 			"id": 32,
 			"name": "WhatsaMods",
 			"image": "https://i.imgur.com/igaheOF.png",
