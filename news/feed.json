@@ -1,9 +1,18 @@
 {	"feed": [
 		{
+			"id": 34,
+			"name": "WhatsaMods",
+			"image": "https://1.bp.blogspot.com/-pCprdaEhV0E/X6cU04yrbLI/AAAAAAAA5V8/SLLjnFoDjhMug43yYh_Wfmxtd8OVqcQ7ACLcBGAsYHQ/s800/Whats0.jpg",
+			"title": "¡Ocultar tu foto a un Contacto!",
+			"status": "Una de las opciones de Privacidad que tiene WhatsApp es que permite elegir quién puede ver tu foto de perfil. En la configuración se permite que nadie pueda ver tu foto de perfil, que solo la puedan ver tus contactos, o que la pueda ver todo el mundo. Pero no permite, en ningún caso, una configuración de privacidad granular para elegir quién puede y quién no puede ver tu foto de perfil.<br><br>Sin embargo, jugando con el Privacy Bug de iPhone que filtraba tu número de teléfono en llamadas a contactos dados de alta para ser llamados en oculto cuando se hace la re-llamada desde la lista de llamadas del terminal, nos dimos cuenta de que con WhatsApp se produce un efecto curioso que permite añadir una opción de privacidad a tu foto de perfil.<br><br>Ver más...",
+			"timeStamp": "06-11-2020 00:05",
+			"url": "https://www.elladodelmal.com/2020/11/whatsapp-como-ocultar-tu-foto-de-perfil.html?m=1"
+		},
+		{
 			"id": 33,
 			"name": "WhatsaMods",
 			"image": "https://raw.githubusercontent.com/WhatsaMods/Data-App/master/news/mpro.jpg",
-			"title": "¡¡Nueva incorporación!",
+			"title": "¡Nueva incorporación!",
 			"status": "Esta vez os traemos un nuevo MOD para la App. Se trata de WhatsApp M Pro, desarrollado por CrisMod.<br><br>Este MOD nos trae Privacidad, Opciones de configuración Multimedia, Descarga de Estados, Copias de seguridad, y varias cosas que seguro que a muchos os gustan.<br><br>De momento solo está disponible el package com.whatsapp, pero iremos incorporando packages secuandarios en poco tiempo.<br><br>¿Que estáis esperando para probarlo? ¡Está disponible en la sección de descargas!",
 			"timeStamp": "06-11-2020 00:05",
 			"url": ""
