@@ -16,7 +16,7 @@
 // Popup permisos
 [titleAtention=¡Atención!]
 [no_internet=Necesita conexión a Internet para poder usar la aplicación.]
-[PstMsg=Para un correcto funcionamiento de la aplicación, debes conceder permisos para escribir en la tarjeta de memoria.]
+[PstMsg=Para un correcto funcionamiento de la aplicación, debes conceder permisos para escribir en la tarjeta de memoria, e instación de aplicaciones de fuentes desconocidas.]
 [update=Se ha detectado una actualización de la aplicación. Para poder abrir la aplicación, es necesario actualizarla.\n\n ¿Desea comenzar la actualización?]
 [errorDownload=Se ha producido un error en la descarga.<br><br>Puedes reiniciar la descarga pulsando el botón Reiniciar, o realizar la descarga directamente desde Android con la opción Alternativa.]
 [btnAccept=Aceptar]
