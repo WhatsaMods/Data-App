@@ -16,7 +16,7 @@
 // Popup permisos
 [titleAtention=Warning!]
 [no_internet=Internet connection is required to use application.]
-[PstMsg=For the application to work properly, you need to allow memory card storage 
+[PstMsg=For the application to work properly, you need to allow memory card storage, and installing applications from unknown sources.]
 [update=Update detected. Update is required to open the application.\n\n Would you like to start the update process?]
 [errorDownload=Downloading error encountered.<br><br>You can restart the download clicking on the Restart button, or download directly from Android with the Alternative option.]
 [btnAccept=Accept]
