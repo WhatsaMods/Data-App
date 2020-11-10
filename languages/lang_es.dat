@@ -84,6 +84,10 @@
 [about=Acerca de..]
 
 // Changelog
+[v1.2.0-title=Versión 1.2.1.38]
+[v1.2.0-date=10 Nov. 2020]
+[v1.2.0a=Mejorada funcionalidad para pedir permisos.]
+
 [v1.2.0-title=Versión 1.2.0.25]
 [v1.2.0-date=25 Oct. 2020]
 [v1.2.0a=Actualizado método de descarga alternativo si fallara la descarga de algún MOD.]
