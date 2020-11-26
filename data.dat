@@ -1,20 +1,20 @@
 // Versiones de idiomas
 {
 	[lang=es]
-	[version=1.2.1.4]
+	[version=1.2.1.5]
 	[url=languages/lang_es.dat]
 }
 
 // Iconos
 {
-	[ic_internal=1.2.1.4] // Valor de actualización
+	[ic_internal=1.2.1.5] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=icons/icons.dat]
 }
 
 // Sección de descarga de Mods
 {
-	[data1=1.2.1.4] // Valor de actualización
+	[data1=1.2.1.5] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=datas/download_mods.dat]
 }
