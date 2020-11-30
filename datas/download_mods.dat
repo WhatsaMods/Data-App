@@ -6,7 +6,7 @@
 	[<Category><wa_plus>]
 	[<DonwloadMod><1><fm-wa><0>			<WhatsaMods><Fouad Mods v8.51><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/fm/fm-v8.51-wa.apk><1>]
 	[<DonwloadMod><1><gold2><0>			<WhatsaMods><WhatsApp Gold v9.91><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/gold/gold-v9.91-wa.apk><1>]
-	[<DonwloadMod><1><nowa-wa><0>			<WhatsaMods><NoWhatsApp v9.75><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.75-wa.apk><1>]
+	[<DonwloadMod><1><nowa-wa><0>			<WhatsaMods><NoWhatsApp v9.80><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.80-wa.apk><1>]
 	[<DonwloadMod><1><mpro-wa><0>			<CrisMod><M Pro v10.0><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/crismod/MPro-10.0-wa.apk><1>]
 	[<DonwloadMod><1><icon1><0>			<TheFULL><WhatsApp Go v0.20.113L><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/WaGO1-0.20.113L.apk><1>]
 }
@@ -24,7 +24,7 @@
 	[<Category><fm_yo>]
 	[<DonwloadMod><1><fm-yo><0>			<WhatsaMods><Fouad Mods v8.51><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/fm/fm-v8.51-yo.apk><1>]
 	[<DonwloadMod><1><gold2><0>			<WhatsaMods><WhatsApp Gold v9.91><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/gold/gold-v9.91-yo.apk><1>]
-	[<DonwloadMod><1><nowa-yo><0>			<WhatsaMods><NoWhatsApp v9.75><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.75-yo.apk><1>]
+	[<DonwloadMod><1><nowa-yo><0>			<WhatsaMods><NoWhatsApp v9.80><com.yowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.80-yo.apk><1>]
 }
 {
 	//*********** GBWHATSAPP ***********
@@ -32,7 +32,7 @@
 	[<Category><fm_gb>]
 	[<DonwloadMod><1><fm-gb><0>			<WhatsaMods><Fouad Mods v8.51><com.gbwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/fm/fm-v8.51-gb.apk><1>]
 	[<DonwloadMod><1><gold2><0>			<WhatsaMods><WhatsApp Gold v9.91><com.gbwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/gold/gold-v9.91-gb.apk><1>]
-	[<DonwloadMod><1><nowa-gb><0>			<WhatsaMods><NoWhatsApp v9.75><com.gbwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.75-gb.apk><1>]
+	[<DonwloadMod><1><nowa-gb><0>			<WhatsaMods><NoWhatsApp v9.80><com.gbwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.80-gb.apk><1>]
 }
 {
 	//*********** FMWHATSAPP ***********
@@ -40,15 +40,15 @@
 	[<Category><fm_fm>]
 	[<DonwloadMod><1><fm-fm><0>			<WhatsaMods><Fouad Mods v8.51><com.fmwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/fm/fm-v8.51-fm.apk><1>]
 	[<DonwloadMod><1><gold2><0>			<WhatsaMods><WhatsApp Gold v9.91><com.fmwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/gold/gold-v9.91-fm.apk><1>]
-	[<DonwloadMod><1><nowa-fm><0>			<WhatsaMods><NoWhatsApp v9.75><com.fmwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.75-fm.apk><1>]
+	[<DonwloadMod><1><nowa-fm><0>			<WhatsaMods><NoWhatsApp v9.80><com.fmwhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.80-fm.apk><1>]
 }
 {	
 	//*********** NOWHATSAPP ***********
 	
 	[<Category><nowhatsapp>]
-	[<DonwloadMod><1><nowa-no><0>		<WhatsaMods><NoWhatsApp v9.75><com.nowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.75-no.apk><1>]
-	[<DonwloadMod><1><nowa-no2><0>		<WhatsaMods><NoWhatsApp v9.75><com.nowhatsapp2><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.75-no2.apk><1>]
-	[<DonwloadMod><1><nowa-no3><0>		<WhatsaMods><NoWhatsApp v9.75><com.nowhatsapp3><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.75-no3.apk><1>]
+	[<DonwloadMod><1><nowa-no><0>		<WhatsaMods><NoWhatsApp v9.80><com.nowhatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.80-no.apk><1>]
+	[<DonwloadMod><1><nowa-no2><0>		<WhatsaMods><NoWhatsApp v9.80><com.nowhatsapp2><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.80-no2.apk><1>]
+	[<DonwloadMod><1><nowa-no3><0>		<WhatsaMods><NoWhatsApp v9.80><com.nowhatsapp3><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.80-no3.apk><1>]
 }
 {	
 	//*********** WHATSAPP BLACK ***********
