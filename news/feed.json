@@ -1,5 +1,14 @@
 {	"feed": [
 		{
+			"id": 41,
+			"name": "WhatsaMods",
+			"image": "https://github.com/WhatsaMods/Data-App/raw/master/news/mpro-w4b.jpg",
+			"title": "¡WhatsApp M Pro 12.0!",
+			"status": "Tenemos una nueva actualización para WhatsApp M Pro la cual trae novedades, como tiempo de caducidad ampliado, descargar estados, ocultar la vista de estados, nuevos emojis, y opciones ocultas como Stickers en estados, nuevos fondos de pantalla, y nuevo diseño de la tienda de Stickers.<br><br>Podéis descargarla en la sección de descargas.",
+			"timeStamp": "01-11-2021 18:25",
+			"url": ""
+		},
+		{
 			"id": 40,
 			"name": "WhatsaMods",
 			"image": "",
