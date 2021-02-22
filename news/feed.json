@@ -1,5 +1,14 @@
 {	"feed": [
 		{
+			"id": 43,
+			"name": "WhatsaMods",
+			"image": "https://i.imgur.com/igaheOF.png",
+			"title": "¡NoWhatsApp v9.86!",
+			"status": "Tenemos actualización de NoWhatsApp, y como siempre, hemos hecho que todas las versiones sean compatibles con todas las arquitecturas y que estén disponibles en todos los packages que solemos publicar.<br><br>En esta versión, no hay grandes novedades, porque principalmente a sido una actualización de base a la versión 2.20.202.18.<br><br>Recordar que ahora podéis instalar cualquier versión de cualquier MOD, sin necesidad de desinstalar previamente el que tengáis instalado. Simplemente instalando, se instalará encima del que tengáis instalado, siempre y cuando sea un MOD instalado desde aquí.<br><br>Podéis descargar todas la versiones desde la sección de descargas.",
+			"timeStamp": "22-02-2020 19:36",
+			"url": ""
+		},
+		{
 			"id": 42,
 			"name": "WhatsaMods",
 			"image": "https://github.com/WhatsaMods/Data-App/raw/master/news/mpro-w4b.jpg",
