@@ -4,6 +4,7 @@
 	//*********** WHATSAPP PLUS ***********
 	
 	[<Category><wa_plus>]
+	[<DonwloadMod><1><fm-wa><0>			<troMods><Fouad Mods v8.70><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/fm/fm-v8.70-wa-a.apk><1>]
 	[<DonwloadMod><1><fm-wa><0>			<WhatsaMods><Fouad Mods v8.65><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/fm/fm-v8.65-wa.apk><1>]
 	[<DonwloadMod><1><gold2><0>			<WhatsaMods><WhatsApp Gold v10.10><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/gold/gold-v10.10-wa.apk><1>]
 	[<DonwloadMod><1><nowa-wa><0>			<WhatsaMods><NoWhatsApp v9.86><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.86-wa.apk><1>]
