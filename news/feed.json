@@ -1,5 +1,14 @@
 {	"feed": [
 		{
+			"id": 49,
+			"name": "tro0314",
+			"image": "https://specials-images.forbesimg.com/imageserve/6065fb67027635d08e3ac48d/960x0.jpg?cropX1=1205&cropX2=2345&cropY1=723&cropY2=1429",
+			"title": "¡Nuevo problema de seguridad en WhatsApp!",
+			"status": "Una nueva advertencia repentina sorprenderá a millones de usuarios de WhatsApp.<br><br>Una nueva y desagradable sorpresa para los 2.000 millones de usuarios de WhatsApp en la actualidad, con el descubrimiento de un riesgo de seguridad alarmante. Con solo su número de teléfono, un atacante remoto puede desactivar fácilmente WhatsApp en su teléfono y luego evitar que vuelva a ingresar. Incluso la autenticación de dos factores no detendrá esto. Así es como funciona el ataque.<br><br>Esto no debería suceder. No debería ser posible. No con una plataforma utilizada por 2 mil millones de personas. No tan fácilmente. Cuando los investigadores, Luis Márquez Carpintero  y Ernesto Canales Pereña , advirtieron que podían matar WhatsApp en mi teléfono, bloqueándome desde mi propia cuenta usando solo mi número de teléfono, tuve dudas. Pero tenían razón.<br><br>Leer más...",
+			"timeStamp": "11-04-2021 15:28",
+			"url": "https://www.forbes.com/sites/zakdoffman/2021/04/10/shock-new-warning-for-millions-of-whatsapp-users-on-apple-iphone-and-google-android-phones/"
+		},
+		{
 			"id": 48,
 			"name": "WhatsaMods",
 			"image": "https://i2.wp.com/pspstation.org/wp-content/uploads/2019/11/fouad-whatsapp.jpg?fit=1200%2C600&ssl=1",
