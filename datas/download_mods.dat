@@ -14,7 +14,7 @@ Valores de arquitectura = arm, arm64, x86, x86_64, all
 	[<DonwloadMod><1><nowa-wa><0>			<WhatsaMods><NoWhatsApp v9.87><com.whatsapp><x86_64><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.87-wa-x86-64.apk><1>]
 	[<DonwloadMod><1><mpro-wa><0>			<CrisMod><M Pro v14.2><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/crismod/MPro-14.2-wa.apk><1>]
 	[<DonwloadMod><1><mpro-wa><0>			<CrisMod><M v21.2><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/crismod/WhatsAppM21.2.apk><1>]
-	[<DonwloadMod><1><icon1><0>			<TheFULL><WhatsApp Go v0.20.113L><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/WaGO1-0.20.113L.apk><1>]
+	[<DonwloadMod><1><ym-wa><0>			<TheFULL><YMWhatsApp+ v15.0><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/ym-wa-15.0.apk><1>]
 }
 {	
 	//*********** WHATSAPP BUSINESS ***********
@@ -22,7 +22,7 @@ Valores de arquitectura = arm, arm64, x86, x86_64, all
 	[<Category><wa_business>]
 	[<DonwloadMod><1><0-business><0>		<TheFULL><WhatsApp Gold 2.20.201.23><com.whatsapp.w4b><all><https://github.com/WhatsaMods/TheFiles/raw/master/gold/gold-2.20.201.23-w4b.apk><1>]
 	[<DonwloadMod><1><fm-wa><0>			<CrisMod><WhatsApp Business M v7.1><com.whatsapp.w4b><all><https://github.com/WhatsaMods/TheFiles/raw/master/crismod/WaBusinessM7.1.apk><1>]
-	[<DonwloadMod><1><0-business><0>			<TheFULL><YoWa Business><com.whatsapp.w4b><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/YoWaB-2.20.205.13.apk><1>]
+	[<DonwloadMod><1><ym-bs><0>			<TheFULL><YMWhatsApp Business v6.1><com.whatsapp.w4b><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/ym-bs-6.1.apk><1>]
 }
 {
 	//*********** YOWHATSAPP ***********
@@ -78,20 +78,14 @@ Valores de arquitectura = arm, arm64, x86, x86_64, all
 	[<DonwloadMod><1><nowa-no3><0>			<WhatsaMods><NoWhatsApp v9.87><com.nowhatsapp3><x86_64><https://github.com/WhatsaMods/TheFiles/raw/master/no/no-9.87-no3-x86-64.apk><1>]
 }
 {	
-	//*********** WHATSAPP BLACK ***********
+	//*********** YMWHATSAPP ***********
 	
-	[<Category><whatsblack>]
-	[<DonwloadMod><1><icon1><0>			<TheFULL><WhatsApp v2.20.201.11><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/Black2.20.201.11Plus.apk><1>]
+	[<Category><ymwhatsapp>]
+	[<DonwloadMod><1><ym-ym><0>			<TheFULL><YMWhatsApp v15.0><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/ym-ym-15.0.apk><1>]
 }
 {	
 	//*********** WHATSAPP MINI ***********
 	
 	[<Category><wa_lite>]
 	[<DonwloadMod><1><icon1><0>			<TheFULL><WhatsApp v2.21.2.6><com.whatsapp><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/LK-Lite2.21.2.6.apk><1>]
-}
-{	
-	//*********** WHATSAPP GO ***********
-	
-	[<Category><w_go>]
-	[<DonwloadMod><1><icon2><0>			<TheFULL><WhatsApp Go v0.20.113L><com.wago><all><https://github.com/WhatsaMods/TheFiles/raw/master/thefull/WaGO2-0.20.113L.apk><1>]
 }
