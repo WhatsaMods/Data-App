@@ -1,0 +1,26 @@
+{
+	[
+		<Category>
+		<xposed_status_cat>
+	]
+	[
+		<Switch>
+		<xposed_status_tt1>
+		< >
+		<xps_status>
+		<0>
+	]
+}
+{
+	[
+		<Category>
+		<xposed_toast_cat>
+	]
+	[
+		<Switch>
+		<xposed_tst_act_tt1>
+		<xposed_tst_act_st1>
+		<tst_nam_act>
+		<0>
+	]
+}

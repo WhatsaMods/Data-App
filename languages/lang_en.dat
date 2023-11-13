@@ -1,0 +1,204 @@
+// Ingles
+[splash0=Searching for udpates..]
+[splash1=Downloading updates..]
+[splash2=Loading resources..]
+
+// Menu
+[menuNoticias=News]
+[menuDescargas=Downloads]
+[menuXposed=Xposed]
+[menuSettings=Settings]
+[menuAyuda=Help]
+
+// Toast
+[NoActivity=No actions available.]
+
+// Popup permisos
+[titleAtention=Warning!]
+[no_internet=Internet connection is required to use application.]
+[PstMsg=For the application to work properly, you need to allow memory card storage.]
+[PstMsgApp=For the application to work properly, you need to allow memory card storage, and installing applications from unknown sources.]
+[update=Update detected. Update is required to open the application.\n\n Would you like to start the update process?]
+[errorDownload=Downloading error encountered.<br><br>You can restart the download clicking on the Restart button, or download directly from Android with the Alternative option.]
+[btnAccept=Accept]
+[btnResset=Restart]
+[btnWeb=Alternative]
+[btnCancel=Cancel]
+[setdown=Downloading]
+
+// Popup About
+[ppAboutApp=WhatsaMods v]
+[ppAboutBuild=Application by:]
+[ppAboutDev=Krowne]
+[ppAboutCR=Developed 2018 - 2021]
+
+
+// Descargas de Mods
+[autor=Author:]
+[packname=Package:]
+[vers=Mod:]
+[xwasha=XWasha]
+[wa_plus=WhatsApp Plus]
+[wa_plus_alt=WhatsApp Plus (SP)]
+
+[wa_lite=WhatsApp Lite (Privacy)]
+[wa_business=WhatsApp Business]
+[wa_business_alt=WhatsApp Business (SP)]
+[fm_fouad=Fouad WhatsApp]
+[fm_gb=GBWhatsApp]
+[fm_yo=YoWhatsApp]
+[fm_fm=FMWhatsApp]
+[fm_jt=JTWhatsApp]
+[gold_wa=WhatsApp Gold]
+[w_go=WhatsApp Go]
+[whats=WhatsApp]
+[whatsblack=WhatsApp Black]
+[ymwhatsapp=YMWhatsApp]
+[whatsappmpro=WhatsApp M Pro]
+[whatsappm=WhatsApp M]
+[whatsappsm=WhatsApp SM]
+
+[nowhatsappplus=NoWhatsApp Plus]
+[nowhatsapp=NoWhatsApp]
+[nowhatsapp2=NoWhatsApp2]
+[nowhatsapp3=NoWhatsApp3]
+
+// Settings
+[settings_cat_pers=Custom settings]
+[settings_theme_dark=Dark Theme]
+
+// Xposed
+[xposed_status_cat= Xposed Modulw]
+[xposed_status_tt1=Module status]
+
+[xposed_publi_cat=Advertising]
+[xposed_quit_pub_tt1=Remove ads]
+[xposed_quit_pub_st1=Ads will be removed and replaced by module status.]
+
+[xposed_tradu_cat=Translations]
+[xposed_tr_gb_tt1=Translate GBWhatsApp.]
+[xposed_tr_gb_st1= Texts of all GBWhatsapp versions will be translated to Spanish.]
+
+[xposed_privac_cat=Privacy]
+[xposed_hid_lcn_tt1=Hide last connection]
+[xposed_hid_lcn_st1=Your last connection will be hidden; however you will be able to see last connection of contacts.]
+
+[xposed_toast_cat=Toast]
+[xposed_tst_act_tt1=Show Activity]
+[xposed_tst_act_st1=Show current Activity in a Toast.]
+
+//Ayuda
+[changelog=Change log]
+[about=About..]
+
+// Changelog
+[v1.2.2-title=Versión 1.2.2.12]
+[v1.2.2-date=07 Mar. 2021]
+[v1.2.2a=Bug correction.]
+
+[v1.2.1-title=Versión 1.2.1.38]
+[v1.2.1-date=10 Nov. 2020]
+[v1.2.1a=Improved functionality to request permissions.]
+
+[v1.2.0-title=Versión 1.2.0.25]
+[v1.2.0-date=25 Oct. 2020]
+[v1.2.0a=Updated alternative download method if some MOD download fails.]
+[v1.2.0b=Fixed alternate download file name.]
+
+[v1.1.9-title=Versión 1.1.9.1]
+[v1.1.9-date=21 Oct. 2020]
+[v1.1.9a=Code update to AndroidX.]
+
+[v1.1.8-title=Versión 1.1.8.12]
+[v1.1.8-date=04 Sep. 2020]
+[v1.1.8a=The MOD name and version will now be displayed correctly during download.]
+
+[v1.1.6-title=Versión 1.1.6.35]
+[v1.1.6-date=12 May. 2020]
+[v1.1.6a=Fixed an issue that prevents the app content from being displayed correctly on some devices.]
+[v1.1.6b=Xposed section removed as it currently has no useful options.]
+
+[v1.1.5-title=Versión 1.1.5.253]
+[v1.1.5-date=1 Jun. 2019]
+[v1.1.5a=Fixed the problem in the Downloads section, now they should download correctly.]
+
+[v1.1.4-title=Version 1.1.4.0]
+[v1.1.4-date=24 Apr. 2019]
+[v1.1.4a=Added support for English language.]
+
+[v1.1.3-title=Version 1.1.3.25]
+[v1.1.3-date=23 Jan. 2019]
+[v1.1.3a= Error corrections.]
+
+[v1.1.2-title=Version 1.1.2.87]
+[v1.1.2-date=13 Jan. 2019]
+[v1.1.2a=Download code corrected.]
+
+[v1.1.1-title=Version 1.1.1.1]
+[v1.1.1-date=04 Jan. 2019]
+[v1.1.1a=New functions added to download servers.]
+
+[v1.0.9-title=Version 1.0.9.125]
+[v1.0.9-date=23 Dec. 2018]
+[v1.0.9a=Download code improved, you can now repeat download if error encountered.]
+
+[v1.0.8-title=Version 1.0.8.102]
+[v1.0.8-date=15 Dec. 2018]
+[v1.0.8a= Floating download window customization. It now turns to the colour of the active theme and shows further download information.]
+
+[v1.0.7-title=Version 1.0.7.15]
+[v1.0.7-date=13 Dec. 2018]
+[v1.0.7a= Problem corrected in download section which did not allow downloading of any MOD.]
+
+[v1.0.6-title=Version 1.0.6.152]
+[v1.0.6-date=1 Oct. 2018]
+[v1.0.6a=Added settings section with option for dark theme.]
+[v1.0.6b= Problem corrected which did not allow opening application in Android 9.0 (Pie).]
+
+[v1.0.5-title=Version 1.0.5.16]
+[v1.0.5-date=26 Oct. 2018]
+[v1.0.5a= Problem corrected in download section which did not allow downloading of some MODs.]
+
+[v1.0.4-title=Version 1.0.4.137]
+[v1.0.4-date=23 Sep. 2018]
+[v1.0.4a=News titles added.]
+[v1.0.4b=Added change log section.]
+[v1.0.4c=Error corrections.]
+
+[v1.0.3-title=Version 1.0.3.2]
+[v1.0.3-date=12 Sep. 2018]
+[v1.0.3a=Error corrections.]
+
+[v1.0.2-title=Version 1.0.2.8]
+[v1.0.2-date=8 Sep. 2018]
+[v1.0.2a= Problem corrected in download section which did not allow installation of applications in some devices.]
+
+[v1.0.1-title=Version 1.0.1.207]
+[v1.0.1-date=6 Sep. 2018]
+[v1.0.1a= News titles added.]
+[v1.0.1b=MODs download section added.]
+
+[v1.0.0-title=Version 1.0.0.0]
+[v1.0.0-date=28 Aug. 2018]
+[v1.0.0a= Xposed module to translate GBWhatsApp.]
+
+
+/////////// A PARTIR DE AQUÍ NO SE TRADUCE NADA ///////////
+// Variables para descargar desde MediaFire
+[schPos1=aria-label="Download file"]
+[schPos2=href="]
+[schPos3=">]
+
+// ZippyShare
+[zsValues1=a(),1,b(),2,c(),3,d,4]
+[zsValues2=document.getElementById('dlbutton').href = ","+,+",";]
+
+[zsPos1=1]
+[zsPos2=2]
+[zsPos3=3]
+[zsPos4=4]
+[zsValue=document.getElementById('dlbutton').href = "]
+[zsValue2= +]
+[zsValue3="/]
+[zsValue4=";]
+

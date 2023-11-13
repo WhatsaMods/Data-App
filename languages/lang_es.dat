@@ -1,0 +1,203 @@
+// Español
+[splash0=Buscando actualizaciones..]
+[splash1=Descargando actualizaciones..]
+[splash2=Cargando recursos..]
+
+// Menu
+[menuNoticias=Noticias]
+[menuDescargas=Descargas]
+[menuXposed=Xposed]
+[menuSettings=Ajustes]
+[menuAyuda=Ayuda]
+
+// Toast
+[NoActivity=No hay acciones disponibles.]
+
+// Popup permisos
+[titleAtention=¡Atención!]
+[no_internet=Necesita conexión a Internet para poder usar la aplicación.]
+[PstMsg=Para un correcto funcionamiento de la aplicación, debes conceder permisos para escribir en la tarjeta de memoria.]
+[PstMsgApp=Para un correcto funcionamiento de la aplicación, debes conceder permisos para escribir en la tarjeta de memoria, e instación de aplicaciones de fuentes desconocidas.]
+[update=Se ha detectado una actualización de la aplicación. Para poder abrir la aplicación, es necesario actualizarla.\n\n ¿Desea comenzar la actualización?]
+[errorDownload=Se ha producido un error en la descarga.<br><br>Puedes reiniciar la descarga pulsando el botón Reiniciar, o realizar la descarga directamente desde Android con la opción Alternativa.]
+[btnAccept=Aceptar]
+[btnResset=Reiniciar]
+[btnWeb=Alternativa]
+[btnCancel=Cancelar]
+[setdown=Descargando]
+
+// Popup About
+[ppAboutApp=WhatsaMods v]
+[ppAboutBuild=Aplicación realizada por:]
+[ppAboutDev=Krowne]
+[ppAboutCR=Desarrollo 2018 - 2021]
+
+
+// Descargas de Mods
+[autor=Autor:]
+[packname=Package:]
+[vers=Mod:]
+[xwasha=XWasha]
+[wa_plus=WhatsApp Plus]
+[wa_plus_alt=WhatsApp Plus (SP)]
+
+[wa_lite=WhatsApp Lite (Privacidad)]
+[wa_business=WhatsApp Business]
+[wa_business_alt=WhatsApp Business (SP)]
+[fm_fouad=Fouad WhatsApp]
+[fm_gb=GBWhatsApp]
+[fm_yo=YoWhatsApp]
+[fm_fm=FMWhatsApp]
+[fm_jt=JTWhatsApp]
+[gold_wa=WhatsApp Gold]
+[w_go=WhatsApp Go]
+[whats=WhatsApp]
+[whatsblack=WhatsApp Black]
+[ymwhatsapp=YMWhatsApp]
+[whatsappmpro=WhatsApp M Pro]
+[whatsappm=WhatsApp M]
+[whatsappsm=WhatsApp SM]
+
+[nowhatsappplus=NoWhatsApp Plus]
+[nowhatsapp=NoWhatsApp]
+[nowhatsapp2=NoWhatsApp2]
+[nowhatsapp3=NoWhatsApp3]
+
+// Settings
+[settings_cat_pers=Personalización]
+[settings_theme_dark=Tema oscuro]
+
+// Xposed
+[xposed_status_cat=Módulo Xposed]
+[xposed_status_tt1=Estado del módulo]
+
+[xposed_publi_cat=Publicidad]
+[xposed_quit_pub_tt1=Quitar publicidad]
+[xposed_quit_pub_st1=Se quitará y reemplazará la publicidad, por el estado del módulo.]
+
+[xposed_tradu_cat=Traducciones]
+[xposed_tr_gb_tt1=Traducir GBWhatsApp.]
+[xposed_tr_gb_st1=Se traducirán los textos de cualquier versión de GBWhatsApp al español.]
+
+[xposed_privac_cat=Privacidad]
+[xposed_hid_lcn_tt1=Ocultar última conexión]
+[xposed_hid_lcn_st1=Ocultarás tu última conexión, pero podrás ver la última conexión de tus contactos.]
+
+[xposed_toast_cat=Toast]
+[xposed_tst_act_tt1=Mostrar Activity]
+[xposed_tst_act_st1=Mostrar la Activity actual mediante un Toast.]
+
+//Ayuda
+[changelog=Lista de cambios]
+[about=Acerca de..]
+
+// Changelog
+[v1.2.2-title=Versión 1.2.2.12]
+[v1.2.2-date=07 Mar. 2021]
+[v1.2.2a=Corrección de errores.]
+
+[v1.2.1-title=Versión 1.2.1.38]
+[v1.2.1-date=10 Nov. 2020]
+[v1.2.1a=Mejorada funcionalidad para pedir permisos.]
+
+[v1.2.0-title=Versión 1.2.0.25]
+[v1.2.0-date=25 Oct. 2020]
+[v1.2.0a=Actualizado método de descarga alternativo si fallara la descarga de algún MOD.]
+[v1.2.0b=Se corrigió el nombre del archivo de descargar alternativa.]
+
+[v1.1.9-title=Versión 1.1.9.1]
+[v1.1.9-date=21 Oct. 2020]
+[v1.1.9a=Actualización del código a AndroidX.]
+
+[v1.1.8-title=Versión 1.1.8.12]
+[v1.1.8-date=04 Sep. 2020]
+[v1.1.8a=Ahora se mostrará correctamente el nombre del MOD y la versión durante la descarga.]
+
+[v1.1.6-title=Versión 1.1.6.35]
+[v1.1.6-date=12 May. 2020]
+[v1.1.6a=Arreglado un problema que impedía visualizar el contenido de la App correctamente en algunos dispositivos.]
+[v1.1.6b=Eliminada la sección Xposed ya que de momento no tiene opciones útiles.]
+
+[v1.1.5-title=Versión 1.1.5.253]
+[v1.1.5-date=1 Jun. 2019]
+[v1.1.5a=Corregido el problema en la sección de Descargas, ahora deberían descargar correctamente.]
+
+[v1.1.4-title=Versión 1.1.4.0]
+[v1.1.4-date=24 Abr. 2019]
+[v1.1.4a=Añadido soporte del idioma inglés.]
+
+[v1.1.3-title=Versión 1.1.3.25]
+[v1.1.3-date=23 Ene. 2019]
+[v1.1.3a=Corrección de errores.]
+
+[v1.1.2-title=Versión 1.1.2.87]
+[v1.1.2-date=13 Ene. 2019]
+[v1.1.2a=Rectificado el código de las descargas.]
+
+[v1.1.1-title=Versión 1.1.1.1]
+[v1.1.1-date=04 Ene. 2019]
+[v1.1.1a=Añadidas nuevas funciones para los servidores de descarga.]
+
+[v1.0.9-title=Versión 1.0.9.125]
+[v1.0.9-date=23 Dic. 2018]
+[v1.0.9a=Mejorado el código de las descargas, ahora puedes repetir la descarga si se realiza mal.]
+
+[v1.0.8-title=Versión 1.0.8.102]
+[v1.0.8-date=15 Dic. 2018]
+[v1.0.8a=Personalización de la ventana flotante de descarga. Ahora se vuelve del color del tema activo, y muestra más información de la descarga.]
+
+[v1.0.7-title=Versión 1.0.7.15]
+[v1.0.7-date=13 Dic. 2018]
+[v1.0.7a=Corregido un problema en la sección de Descargas que impedía descargar cualquier MOD.]
+
+[v1.0.6-title=Versión 1.0.6.152]
+[v1.0.6-date=1 Oct. 2018]
+[v1.0.6a=Añadida sección ajustes con opción de tema oscuro.]
+[v1.0.6b=Arreglado un error que impedía abrir la aplicación en Android 9.0 (Pie).]
+
+[v1.0.5-title=Versión 1.0.5.16]
+[v1.0.5-date=26 Oct. 2018]
+[v1.0.5a=Corregido un problema en la sección de Descargas que impedía descargar algunos MODs.]
+
+[v1.0.4-title=Versión 1.0.4.137]
+[v1.0.4-date=23 Sep. 2018]
+[v1.0.4a=Añadidos títulos a las noticias.]
+[v1.0.4b=Añadida sección lista de cambios.]
+[v1.0.4c=Correción de errores.]
+
+[v1.0.3-title=Versión 1.0.3.2]
+[v1.0.3-date=12 Sep. 2018]
+[v1.0.3a=Correción de errores.]
+
+[v1.0.2-title=Versión 1.0.2.8]
+[v1.0.2-date=8 Sep. 2018]
+[v1.0.2a=Correción de la sección de Descargas, no permitia instalar las aplicaciones en algunos dispositivos.]
+
+[v1.0.1-title=Versión 1.0.1.207]
+[v1.0.1-date=6 Sep. 2018]
+[v1.0.1a=Añadida sección de noticias.]
+[v1.0.1b=Añadida sección de descarga de MODs.]
+
+[v1.0.0-title=Versión 1.0.0.0]
+[v1.0.0-date=28 Ago. 2018]
+[v1.0.0a=Modulo Xposed para traducir GBWhatsApp.]
+
+
+/////////// A PARTIR DE AQUÍ NO SE TRADUCE NADA ///////////
+// Variables para descargar desde MediaFire
+[schPos1=aria-label="Download file"]
+[schPos2=href="]
+[schPos3=">]
+
+// ZippyShare
+[zsValues1=a(),1,b(),2,c(),3,d,4]
+[zsValues2=document.getElementById('dlbutton').href = ","+,+",";]
+
+[zsPos1=1]
+[zsPos2=2]
+[zsPos3=3]
+[zsPos4=4]
+[zsValue=document.getElementById('dlbutton').href = "]
+[zsValue2= +]
+[zsValue3="/]
+[zsValue4=";]

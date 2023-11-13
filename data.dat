@@ -1,0 +1,44 @@
+// Versiones de idiomas
+{
+	[lang=es]
+	[version=1.2.2.261]
+	[url=languages/lang_es.dat]
+}
+
+// Iconos
+{
+	[ic_internal=1.2.2.261] // Valor de actualización
+	[strc=1.0.1] // Valor de la versión de WhatsaMods
+	[url=icons/icons.dat]
+}
+
+// Sección de descarga de Mods
+{
+	[data1=1.2.2.268] // Valor de actualización
+	[strc=1.0.1] // Valor de la versión de WhatsaMods
+	[url=datas/download_mods.dat]
+}
+// Sección Xposed
+{
+	[data2=1.2.2.261] // Valor de actualización
+	[strc=1.0.1] // Valor de la versión de WhatsaMods
+	[url=datas/xposed.dat]
+}
+// Sección Ayuda
+{
+	[data3=1.2.2.261] // Valor de actualización
+	[strc=1.0.1] // Valor de la versión de WhatsaMods
+	[url=datas/help.dat]
+}
+// Lista de cambios
+{
+	[data4=1.2.2.261] // Valor de actualización
+	[strc=1.0.1] // Valor de la versión de WhatsaMods
+	[url=datas/changelog.dat]
+}
+// Ajustes
+{
+	[data5=1.2.2.261] // Valor de actualización
+	[strc=1.0.1] // Valor de la versión de WhatsaMods
+	[url=datas/settings.dat]
+}
