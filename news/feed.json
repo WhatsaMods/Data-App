@@ -1,5 +1,18 @@
 {	"feed": [
 		{
+			"id": 25,
+			"name": "WhatsaMods",
+			"image": "",
+			"title": "¡Fouad Mods!",
+			"status": "Tenemos actualización de Fouad WhatsApp v9.93, con base 2.23.21.88.<br><br>Esta es una versión de base con nuevas características y corrección de errores.<br><br>Como siempre podéis descargar todos los MODs desde la sección de Descargas.",
+			"timeStamp": "26-11-2023 15:23",
+			"url": "",
+			"tipo": "mod",
+			"version" : "2.23.21.88,2.23.23.78",
+			"mod" : "Fouad WhatsApp,YMWhatsApp",
+			"vmod" : "9.93,35.5"
+		},	
+		{
 			"id": 24,
 			"name": "WhatsaMods",
 			"image": "",
@@ -11,7 +24,8 @@
 			"version" : "2.23.19.84,2.23.23.78",
 			"mod" : "XWasha,YMWhatsApp",
 			"vmod" : ",35.5"
-		},		{
+		},		
+		{
 			"id": 23,
 			"name": "WhatsaMods",
 			"image": "",
