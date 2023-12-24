@@ -30,12 +30,12 @@ Valores de arquitectura = arm, arm64, x86, x86_64, all
 	
 	[<Category><wa_business>]
 	[<DonwloadMod><0><business><0>			<CrisMod><WhatsApp Business M v15.15><com.whatsapp.w4b><all><https://github.com/WhatsaMods/cris/raw/master/WaBusinessM15.15.apk><1>]
-	[<DonwloadMod><1><business><0>			<𝒀 𝑰 𝑺 𝑼 𝑺 ツ><YMWhatsApp Business v25.0><com.whatsapp.w4b><all><https://github.com/WhatsaMods/ym/raw/master/ym-w4b-v25.0.apk><1>]
+	[<DonwloadMod><1><business><0>			<𝒀 𝑰 𝑺 𝑼 𝑺 ツ><YMWhatsApp Business v26.0><com.whatsapp.w4b><all><https://github.com/WhatsaMods/ym/raw/master/ym-w4b-v26.0.apk><1>]
 	[<DonwloadMod><0><business><0>			<MWMods><MeWhatsApp Business v1.0><com.whatsapp.w4b><all><https://github.com/WhatsaMods/me/raw/master/mebu-v1.0-w4b.apk><1>]
 }
 {	
 	//*********** WHATSAPP BUSINESS PAQUETES SECUNDARIOS ***********
 	
 	[<Category><wa_business_alt>]
-	[<DonwloadMod><1><business><0>			<𝒀 𝑰 𝑺 𝑼 𝑺 ツ><YMWhatsApp Business v25.0><com.whatsapp.w4y><all><https://github.com/WhatsaMods/ym/raw/master/ym-w4y-v25.0.apk><1>]
+	[<DonwloadMod><1><business><0>			<𝒀 𝑰 𝑺 𝑼 𝑺 ツ><YMWhatsApp Business v26.0><com.whatsapp.w4y><all><https://github.com/WhatsaMods/ym/raw/master/ym-w4y-v26.0.apk><1>]
 }

@@ -1,5 +1,18 @@
 {	"feed": [
 		{
+			"id": 26,
+			"name": "WhatsaMods",
+			"image": "",
+			"title": "¡YMWhatsApp Business!",
+			"status": "Tenemos actualización de WhatsApp Business v26.0, con base 2.23.24.84.<br><br>Esta es una versión de base con nuevas características y corrección de errores.<br><br>Como siempre podéis descargar todos los MODs desde la sección de Descargas.",
+			"timeStamp": "24-12-2023 20:50",
+			"url": "",
+			"tipo": "mod",
+			"version" : "2.23.24.84",
+			"mod" : "YMWhatsApp Business",
+			"vmod" : "26.0"
+		},	
+		{
 			"id": 25,
 			"name": "WhatsaMods",
 			"image": "",
