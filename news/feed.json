@@ -1,5 +1,18 @@
 {	"feed": [
 		{
+			"id": 27,
+			"name": "WhatsaMods",
+			"image": "",
+			"title": "¡Actulizacines!",
+			"status": "Tenemos actualización de YMWhatsApp v36.0, con base 2.24.1.76, y corrección de errores de Fouad WhatsApp v9.95.<br><br>YMWhatsApp trae una actualización de base y correción de errores. Y la versión de Fouad WhatsApp es una versión que se basa principalmente en correciones de errores.<br><br>Como siempre podéis descargar todos los MODs desde la sección de Descargas.",
+			"timeStamp": "24-01-2024 15:10",
+			"url": "",
+			"tipo": "mod",
+			"version" : "2.24.1.76,2.23.21.88",
+			"mod" : "YMWhatsApp,Fouad WhatsApp",
+			"vmod" : "36.0,9.95"
+		},
+		{
 			"id": 26,
 			"name": "WhatsaMods",
 			"image": "",
