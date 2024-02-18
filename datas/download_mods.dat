@@ -5,7 +5,7 @@ Valores de arquitectura = arm, arm64, x86, x86_64, all
 	//*********** WHATSAPP PLUS ***********
 	
 	[<Category><wa_plus>]
-	[<DonwloadMod><1><wa><0>				<WhatsaMods><XWasha v2.23.19.84><com.whatsapp><all><https://raw.githubusercontent.com/WhatsaMods/xw/master/apk/w2.23.19.84.apk><1>]
+	[<DonwloadMod><0><wa><0>				<WhatsaMods><XWasha v2.23.19.84><com.whatsapp><all><https://raw.githubusercontent.com/WhatsaMods/xw/master/apk/w2.23.19.84.apk><1>]
 	[<DonwloadMod><1><fm-wa><0>				<Yousef Al Basha><Fouad Mods v9.95><com.whatsapp><all><https://github.com/WhatsaMods/fm/raw/master/fm-v9.95-wa.apk><1>]
 	[<DonwloadMod><1><fm-wa><0>				<Yousef Al Basha><Fouad Mods v9.93><com.whatsapp><all><https://github.com/WhatsaMods/fm/raw/master/fm-v9.93-wa.apk><1>]
 	[<DonwloadMod><0><mpro-wa><0>			<CrisMod><WhatsApp SM v12.5><com.whatsapp><all><https://github.com/WhatsaMods/cris/raw/master/WaSM-12.5-wa.apk><1>]
@@ -17,7 +17,7 @@ Valores de arquitectura = arm, arm64, x86, x86_64, all
 	//*********** WHATSAPP PLUS PAQUETES SECUNDARIOS ***********
 	
 	[<Category><wa_plus_alt>]
-	[<DonwloadMod><1><xwasha><0>			<WhatsaMods><XWasha v2.23.19.84><com.xwasha><all><https://raw.githubusercontent.com/WhatsaMods/xw/master/apk/x2.23.19.84.apk><1>]
+	[<DonwloadMod><0><xwasha><0>			<WhatsaMods><XWasha v2.23.19.84><com.xwasha><all><https://raw.githubusercontent.com/WhatsaMods/xw/master/apk/x2.23.19.84.apk><1>]
 	[<DonwloadMod><1><fm-gb><0>				<Yousef Al Basha><Fouad Mods v9.95><com.gbwhatsapp><all><https://github.com/WhatsaMods/fm/raw/master/fm-v9.95-gb.apk><1>]
 	[<DonwloadMod><1><fm-fm><0>				<Yousef Al Basha><Fouad Mods v9.95><com.fmwhatsapp><all><https://github.com/WhatsaMods/fm/raw/master/fm-v9.95-fm.apk><1>]
 	[<DonwloadMod><1><fm-yo><0>				<Yousef Al Basha><Fouad Mods v9.95><com.yowhatsapp><all><https://github.com/WhatsaMods/fm/raw/master/fm-v9.95-yo.apk><1>]

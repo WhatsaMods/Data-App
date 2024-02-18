@@ -1,5 +1,18 @@
 {	"feed": [
 		{
+			"id": 28,
+			"name": "WhatsaMods",
+			"image": "",
+			"title": "XWhasa 😔",
+			"status": "Goy tenemos una triste noticia. Despues de unos largos periodos de pocas actualizaciones del MOD, y debido a la falta de tiempo y los constantes cambios y pegas que pone WhatsApp para evitar que se hagan los MODs, el MOD XWasha, que era el MOD del grupo, va a dejar de ser descontinuado de momento. No sabemos si en el futuro seguiremos con el, pero de momento hasta que se solucionen los constantes problemas actuales de WhatsApp, sumados a la falta de tiempo para poder investigar, será retirado de la aplicación ya que ha caducado el tiempo de uso.<br><br>Recordad que ahora con el paquete com.whatsapp podeis añadir varias cuentas no solo una.<br><br>Perdón a todos por las molestias.",
+			"timeStamp": "18-02-2024 13:00",
+			"url": "",
+			"tipo": "mod",
+			"version" : "",
+			"mod" : "",
+			"vmod" : ""
+		},
+		{
 			"id": 27,
 			"name": "WhatsaMods",
 			"image": "",
