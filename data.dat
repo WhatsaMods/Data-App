@@ -14,7 +14,7 @@
 
 // Sección de descarga de Mods
 {
-	[data1=1.2.2.274] // Valor de actualización
+	[data1=1.2.2.275] // Valor de actualización
 	[strc=1.0.1] // Valor de la versión de WhatsaMods
 	[url=datas/download_mods.dat]
 }

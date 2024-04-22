@@ -1,5 +1,18 @@
 {	"feed": [
 		{
+			"id": 29,
+			"name": "WhatsaMods",
+			"image": "",
+			"title": "Actulizaciones",
+			"status": "Tenemos actualizaciones de los MODs Foaud WhatsApp e YMWhatsApp con las bases v2.24.2.76 y v2.24.7.81 respectivamente.<br><br>No sabemos si estas serán las últimas actualizaciones de los MODs debido a la constante presión de WhatsApp, pero podéis seguir las noticias aquí o en el canal de Telegram.<br><br>Como siempre podéis descargar todos los MODs desde la sección de Descargas.",
+			"timeStamp": "22-04-2024 16:55",
+			"url": "",
+			"tipo": "mod",
+			"version" : "",
+			"mod" : "YMWhatsApp,Fouad WhatsApp",
+			"vmod" : "37.0,10.06"
+		},
+		{
 			"id": 28,
 			"name": "WhatsaMods",
 			"image": "",
